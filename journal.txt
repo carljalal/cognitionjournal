@@ -1,12 +1,52 @@
-20:50 1/14/2023
+jan 16 2023 monday
+late night
+citicholine
+very tired
+
+star search -- around 75k-85k
+speed pack -- around 100-120k
+speed match -- 40400, 42800
+highway hazards -- 189811, 180501
+
+memorypath 4box 10 errors -- 409 correct
+memorypath 5box 10 errors -- 163 correct
+
+memorymaze
+randchars 4
+svg
+typing
+num correct: 100
+num steps: 820
+average time per question: 6.358s
+words in use: 9
 
 
+jan 17 2023 monday
+morning, just ate
+not tired, pretty good
+did not sleep 7+ hours (around 5.5-6)
+happy music
 
+star search -- 74030, 54000, 47590, 67780, 73950, 67460, 67540, 33490, 67540 // 80280, 54480
+speed pack -- 127000, 154000 // 159500
+speed match -- 40350, 39100, 41850, 40400, 35500, 41650 // 41500, 39900, 40000
+highway hazards -- 186481, 188861, 182861 // 186061
 
+memorypath 4box 10 errors -- 430 correct
+memorypath 5box 10 errors -- 123 correct
 
+memorymaze
+randchars 4
+svg
+typing
+num correct: 100
+num steps: 1184
+average steps per question: 11.84
+average time per question: 6.564ss
+words in use: 7
 
-
-
+mid-day
+maze generator 3min -- 8 mazes
 
 
 
