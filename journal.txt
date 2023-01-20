@@ -20,8 +20,9 @@ num steps: 820
 average time per question: 6.358s
 words in use: 9
 
+================================================================
 
-jan 17 2023 monday
+jan 17 2023 tuesday
 morning, just ate
 not tired, pretty good
 did not sleep 7+ hours (around 5.5-6)
@@ -47,6 +48,99 @@ words in use: 7
 
 mid-day
 maze generator 3min -- 8 mazes
+
+
+================================================================
+
+jan 18 2023 wednesday
+morning
+not tired, pretty good
+slept around 8 hours
+no music
+
+star search -- 47830, 67700, 67540, 48160 // 67790 // 67860
+speed pack -- 165000 // 153500
+speed match -- 34800, 37000 // 38500, 31200 // 38500
+highway hazards -- 180991, 181571 // 182721
+
+memorypath 4box 10 errors -- 478 correct // 582 correct
+memorypath 5box 10 errors -- 171 correct // 135 correct
+
+maze generator 3min -- 8 mazes // 7 mazes
+
+memorymaze
+randchars 4
+svg
+typing
+num correct: 100
+num steps: 1078
+average time per question: 6.732s
+words in use: 12
+total words: 12
+
+
+================================================================
+
+jan 19 2023 thursday
+morning
+quite good
+slept around 8+ hours
+very low volume happy music
+
+star search -- 40700, 54320, 88460, 74510
+speed pack -- 163000
+speed match -- 39300, 39000
+highway hazards -- 194901
+
+memorypath 1box 100 clicks -- 609ms average
+memorypath 2box 100 clicks -- 599ms average
+memorypath 3box 100 clicks -- 556ms average
+memorypath 4box 5 errors -- 665 correct
+memorypath 5box 10 errors -- 145 correct
+
+maze generator 3min -- 9 mazes
+
+memorymaze
+randchars 4
+svg
+typing
+num correct: 100
+num steps: 595
+average time per question: 6.927s
+words in use: 6
+
+
+================================================================
+
+jan 20 2023 friday
+morning
+quite good
+slept around 8+ hours
+very low volume happy music
+
+star search -- 74920, 34290
+speed pack -- 156500, 159500
+speed match -- 40100, 43500, 435500, 39000
+highway hazards -- 191171, 188661
+
+memorypath 1box 100 clicks -- 595ms average, 614ms average
+memorypath 2box 100 clicks -- 584ms average
+memorypath 3box 100 clicks -- 586ms average 1 incorrect
+memorypath 4box 10 errors -- 654 correct
+memorypath 5box 10 errors -- 203 correct
+
+maze generator 3min -- 9 mazes
+
+memorymaze
+randchars 4
+svg
+typing
+num correct: 100
+num steps: 1035
+average time per question: 6.885s
+words in use: 14
+total words: 14
+
 
 
 
