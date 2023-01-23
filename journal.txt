@@ -120,10 +120,10 @@ very low volume happy music
 
 star search -- 74920, 34290
 speed pack -- 156500, 159500
-speed match -- 40100, 43500, 435500, 39000
+speed match -- 40100, 43500, 435500, 39000 // 38400
 highway hazards -- 191171, 188661
 
-memorypath 1box 100 clicks -- 595ms average, 614ms average
+memorypath 1box 100 clicks -- 595ms average, 614ms average // 692ms average, 634ms average, 600ms average
 memorypath 2box 100 clicks -- 584ms average
 memorypath 3box 100 clicks -- 586ms average 1 incorrect
 memorypath 4box 10 errors -- 654 correct
@@ -140,6 +140,63 @@ num steps: 1035
 average time per question: 6.885s
 words in use: 14
 total words: 14
+
+================================================================
+
+jan 21 2023 saturday
+mid day after nap
+pretty good
+slept around 8+ hours
+no music
+
+star search -- 86820
+speed pack -- 156500
+speed match -- 40700
+highway hazards -- 185871
+
+memorypath 1box 100 clicks -- 636ms average
+memorypath 2box 100 clicks -- 606ms average
+memorypath 3box 100 clicks -- 579ms average
+memorypath 4box 10 errors -- 592 correct
+memorypath 5box 10 errors -- 184 correct
+
+maze generator 3min -- 9 mazes
+tetris 40 lines -- 2:00.86
+
+memorymaze
+randchars 4
+svg
+typing
+num correct: 100
+num steps: 1035
+average time per question: 6.885s
+words in use: 14
+total words: 14
+
+
+================================================================
+
+jan 22 2023 sunday
+night before sleep
+medium
+slept around 8+ hours
+cheerful music
+
+star search -- 90930 (14/14)
+speed pack -- 159500
+speed match -- 38000 (91/97)
+highway hazards -- 183541
+
+memorypath 1box -- 657ms average (49/0)
+memorypath 2box -- 652ms average (87/1)
+memorypath 3box -- 602ms average (83/1)
+memorypath 4box 10 errors -- 502 correct
+memorypath 5box 10 errors -- 117 correct
+
+maze generator 3min -- 8 mazes
+tetris 40 lines -- 1:56 (morning), 2:02
+
+
 
 
 
